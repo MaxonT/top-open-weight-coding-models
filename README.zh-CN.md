@@ -8,11 +8,15 @@
 
 ![Ranked by GitHub stars](https://img.shields.io/badge/ranked%20by-GitHub%20stars-orange?style=for-the-badge) ![GitHub stars](https://img.shields.io/badge/%E2%AD%90%20stars-repo-black?style=for-the-badge) ![License](https://img.shields.io/badge/license-CC0-0a7bbb?style=for-the-badge)
 
-![条目](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-57-blueviolet?style=for-the-badge) ![总 Stars](https://img.shields.io/badge/%E6%80%BB%20Stars-1.2M-gold?style=for-the-badge) ![更新于](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E4%BA%8E-2026--10--18-brightgreen?style=for-the-badge)
+![条目](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-60-blueviolet?style=for-the-badge) ![总 Stars](https://img.shields.io/badge/%E6%80%BB%20Stars-1.2M-gold?style=for-the-badge) ![更新于](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E4%BA%8E-2026--10--18-brightgreen?style=for-the-badge)
 
 [English](README.md) · **简体中文**
 
 </div>
+
+---
+
+> **为什么是现在:** 同一周里出了三个开源权重模型：Reflection 的 [Beam](https://reflection.ai/blog/beam-is-available)（501B MoE，激活 23B，Apache 2.0，10 月 16 日放出权重）、[DeepSeek V4.1-Flash-1017](https://api-docs.deepseek.com/news/news261017/)（10 月 17 日）和 Liquid AI 的 [LFM2.5-24B-A2B](https://www.liquid.ai/blog/lfm2-5-24b-a2b)（10 月 14 日，激活 2B，面向端侧 Agent）。这三个模型都没有自己的 GitHub 仓库，所以在这里点名，不进下面的排名。据报道 Beam 首日即支持 vLLM 和 SGLang（见下方排名），第一个分区收录了能运行 LFM2.5 的 GitHub 项目。下面排的是让你在自己电脑上跑这类模型的 GitHub 项目。
 
 ---
 
@@ -22,6 +26,7 @@
 - [Local Inference Engines](#sec-1) · 20
 - [Open-Weight Coding & Agent Models](#sec-2) · 20
 - [Local Coding Agents & IDE Plugins](#sec-3) · 17
+- [Run LFM2.5 on Your Machine](#sec-4) · 3
 - [📖 关于本列表](#about)
 
 <a id="top-picks"></a>
@@ -102,7 +107,7 @@
 | 17 | [**bigcode-project/starcoder2**](https://github.com/bigcode-project/starcoder2) | 2.1k | Python | 2024-03-21 | Home of StarCoder2! |
 | 18 | [**huggingface/llm-ls**](https://github.com/huggingface/llm-ls) | 881 | Rust | 2026-09-23 | LSP server leveraging LLMs for code completion (and more?) |
 | 19 | [**bin123apple/AutoCoder**](https://github.com/bin123apple/AutoCoder) | 845 | Python | 2024-07-06 | We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base data… |
-| 20 | [**inmve/free-ai-coding**](https://github.com/inmve/free-ai-coding) | 766 | — | 2026-09-26 | AI coding limit resets and extra usage, with original sources. |
+| 20 | [**zinja-coder/apktool-mcp-server**](https://github.com/zinja-coder/apktool-mcp-server) | 674 | Python | 2026-07-02 | A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites) |
 
 </details>
 
@@ -137,6 +142,16 @@
 | 17 | [**Fangyuan025/Chaty**](https://github.com/Fangyuan025/Chaty) | 52 | TypeScript | 2026-10-14 | The models on your disk, put to work. A private desktop app for open models — chat, a coding agent built for… |
 
 </details>
+
+<a id="sec-4"></a>
+
+## Run LFM2.5 on Your Machine
+
+| # | 项目 | ⭐ Stars | 语言 | 更新 | 简介 |
+|:-:|:--|--:|:-:|:-:|:--|
+| 1 | [**Liquid4All/LeapSDK-Examples**](https://github.com/Liquid4All/LeapSDK-Examples) | 76 | Kotlin | 2026-10-08 | Example apps for LeapSDK |
+| 2 | [**maximecb/bebelm**](https://github.com/maximecb/bebelm) | 69 | Rust | 2026-06-16 | CPU-only, pure-Rust implementation of LiquidAI's LFM2.5-8B-A1B LLM |
+| 3 | [**gyunggyung/Tiny-MoA**](https://github.com/gyunggyung/Tiny-MoA) | 39 | Python | 2026-02-07 | Running Mixture of Agents on CPU: LFM2.5 Brain (1.2B) + Falcon-R Reasoner (600M) + Tool Caller (90M). CPU-onl… |
 
 <a id="about"></a>
 
