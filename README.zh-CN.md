@@ -102,7 +102,7 @@
 | 17 | [**bigcode-project/starcoder2**](https://github.com/bigcode-project/starcoder2) | 2.1k | Python | 2024-03-21 | Home of StarCoder2! |
 | 18 | [**huggingface/llm-ls**](https://github.com/huggingface/llm-ls) | 881 | Rust | 2026-09-23 | LSP server leveraging LLMs for code completion (and more?) |
 | 19 | [**bin123apple/AutoCoder**](https://github.com/bin123apple/AutoCoder) | 845 | Python | 2024-07-06 | We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base data… |
-| 20 | [**zinja-coder/jadx-mcp-server**](https://github.com/zinja-coder/jadx-mcp-server) | 805 | Python | 2026-10-09 | MCP server for JADX-AI Plugin |
+| 20 | [**inmve/free-ai-coding**](https://github.com/inmve/free-ai-coding) | 766 | — | 2026-09-26 | AI coding limit resets and extra usage, with original sources. |
 
 </details>
 
