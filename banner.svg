@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Top Open Weight Coding Models">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0a0e14"/></linearGradient>
+    <linearGradient id="word" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d9f99d"/><stop offset="0.6" stop-color="#84cc16"/><stop offset="1" stop-color="#4d7c0f"/></linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#84cc16" stop-opacity="0.9"/><stop offset="1" stop-color="#4d7c0f" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1280" height="340" fill="url(#bg)"/>
+<g><polygon points="150,210 172,199 150,188 128,199" fill="#84cc16"/><polygon points="128,199 150,210 150,254 128,243" fill="#365314"/><polygon points="172,199 150,210 150,254 172,243" fill="#4d7c0f"/><polygon points="172,221 194,210 172,199 150,210" fill="#a3e635"/><polygon points="150,210 172,221 172,265 150,254" fill="#365314"/><polygon points="194,210 172,221 172,265 194,254" fill="#4d7c0f"/><polygon points="194,232 216,221 194,210 172,221" fill="#bef264"/><polygon points="172,221 194,232 194,276 172,265" fill="#365314"/><polygon points="216,221 194,232 194,276 216,265" fill="#4d7c0f"/><polygon points="150,181 172,170 150,159 128,170" fill="#4d7c0f"/><polygon points="128,170 150,181 150,225 128,214" fill="#365314"/><polygon points="172,170 150,181 150,225 172,214" fill="#4d7c0f"/><polygon points="172,192 194,181 172,170 150,181" fill="#365314"/><polygon points="150,181 172,192 172,236 150,225" fill="#365314"/><polygon points="194,181 172,192 172,236 194,225" fill="#4d7c0f"/><polygon points="150,153 172,142 150,131 128,142" fill="#84cc16"/><polygon points="128,142 150,153 150,197 128,186" fill="#365314"/><polygon points="172,142 150,153 150,197 172,186" fill="#4d7c0f"/></g>
+  <text x="330" y="168" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="54" font-weight="800" fill="url(#word)" letter-spacing="-1">Top Open Weight Coding Models</text>
+  <rect x="333" y="182" width="420" height="3" rx="1.5" fill="url(#rule)"/>
+  <text x="333" y="216" font-family="'Segoe UI',system-ui,sans-serif" font-size="26" font-weight="600" fill="#c9d1d9">Open-weight coding and agent models (Qwen Coder, DeepSeek, GLM, Kimi, Devstral, StarCoder) plus the tools to run them locally: llama.cpp, Ollama, vLLM, MLX, ranked by GitHub stars</text>
+  <text x="333" y="258" font-family="'SF Mono',ui-monospace,monospace" font-size="20" fill="#a371f7">★ 57 entries · 1.2M stars · EN + ZH · rebuilt daily</text>
+</svg>
