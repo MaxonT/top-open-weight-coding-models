@@ -8,7 +8,7 @@
 
 ![Ranked by GitHub stars](https://img.shields.io/badge/ranked%20by-GitHub%20stars-orange?style=for-the-badge) ![GitHub stars](https://img.shields.io/badge/%E2%AD%90%20stars-repo-black?style=for-the-badge) ![License](https://img.shields.io/badge/license-CC0-0a7bbb?style=for-the-badge)
 
-![entries](https://img.shields.io/badge/entries-62-blueviolet?style=for-the-badge) ![total stars](https://img.shields.io/badge/total%20stars-1.2M-gold?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--21-brightgreen?style=for-the-badge)
+![entries](https://img.shields.io/badge/entries-63-blueviolet?style=for-the-badge) ![total stars](https://img.shields.io/badge/total%20stars-1.2M-gold?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--24-brightgreen?style=for-the-badge)
 
 **English** · [简体中文](README.zh-CN.md)
 
@@ -25,7 +25,7 @@
 - [🏆 Top Picks](#top-picks)
 - [Local Inference Engines](#sec-1) · 20
 - [Open-Weight Coding & Agent Models](#sec-2) · 20
-- [Local Coding Agents & IDE Plugins](#sec-3) · 19
+- [Local Coding Agents & IDE Plugins](#sec-3) · 20
 - [Run LFM2.5 on Your Machine](#sec-4) · 3
 - [📖 About this list](#about)
 
@@ -35,10 +35,10 @@
 
 | # | Project | ⭐ Stars | Language | Updated | Description |
 |:-:|:--|--:|:-:|:-:|:--|
-| 1 | [**ollama/ollama**](https://github.com/ollama/ollama) | 184.1k | Go | 2026-10-21 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| 2 | [**ggml-org/llama.cpp**](https://github.com/ggml-org/llama.cpp) | 131.9k | C++ | 2026-10-21 | LLM inference in C/C++ |
-| 3 | [**deepseek-ai/DeepSeek-V3**](https://github.com/deepseek-ai/DeepSeek-V3) | 104.5k | Python | 2025-08-28 | — |
-| 4 | [**vllm-project/vllm**](https://github.com/vllm-project/vllm) | 94.6k | Python | 2026-10-21 | A high-throughput and memory-efficient inference and serving engine for LLMs |
+| 1 | [**ollama/ollama**](https://github.com/ollama/ollama) | 184.6k | Go | 2026-10-23 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| 2 | [**ggml-org/llama.cpp**](https://github.com/ggml-org/llama.cpp) | 132.2k | C++ | 2026-10-24 | LLM inference in C/C++ |
+| 3 | [**deepseek-ai/DeepSeek-V3**](https://github.com/deepseek-ai/DeepSeek-V3) | 104.6k | Python | 2025-08-28 | — |
+| 4 | [**vllm-project/vllm**](https://github.com/vllm-project/vllm) | 95.3k | Python | 2026-10-24 | A high-throughput and memory-efficient inference and serving engine for LLMs |
 | 5 | [**deepseek-ai/DeepSeek-R1**](https://github.com/deepseek-ai/DeepSeek-R1) | 91.9k | — | 2025-06-27 | — |
 
 <a id="sec-1"></a>
@@ -47,16 +47,16 @@
 
 | # | Project | ⭐ Stars | Language | Updated | Description |
 |:-:|:--|--:|:-:|:-:|:--|
-| 1 | [**ollama/ollama**](https://github.com/ollama/ollama) | 184.1k | Go | 2026-10-21 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| 2 | [**ggml-org/llama.cpp**](https://github.com/ggml-org/llama.cpp) | 131.9k | C++ | 2026-10-21 | LLM inference in C/C++ |
-| 3 | [**vllm-project/vllm**](https://github.com/vllm-project/vllm) | 94.6k | Python | 2026-10-21 | A high-throughput and memory-efficient inference and serving engine for LLMs |
-| 4 | [**nomic-ai/gpt4all**](https://github.com/nomic-ai/gpt4all) | 77.3k | C++ | 2025-05-27 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
+| 1 | [**ollama/ollama**](https://github.com/ollama/ollama) | 184.6k | Go | 2026-10-23 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| 2 | [**ggml-org/llama.cpp**](https://github.com/ggml-org/llama.cpp) | 132.2k | C++ | 2026-10-24 | LLM inference in C/C++ |
+| 3 | [**vllm-project/vllm**](https://github.com/vllm-project/vllm) | 95.3k | Python | 2026-10-24 | A high-throughput and memory-efficient inference and serving engine for LLMs |
+| 4 | [**nomic-ai/gpt4all**](https://github.com/nomic-ai/gpt4all) | 77.4k | C++ | 2025-05-27 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
 | 5 | [**exo-explore/exo**](https://github.com/exo-explore/exo) | 48.0k | Python | 2026-10-13 | Run frontier AI locally. |
-| 6 | [**AlexsJones/llmfit**](https://github.com/AlexsJones/llmfit) | 38.2k | Rust | 2026-10-21 | Hundreds of models & providers. One command to find what runs on your hardware. |
-| 7 | [**sgl-project/sglang**](https://github.com/sgl-project/sglang) | 37.6k | Python | 2026-10-21 | SGLang is a high-performance serving framework for large language models and multimodal models. |
-| 8 | [**ml-explore/mlx**](https://github.com/ml-explore/mlx) | 28.9k | C++ | 2026-10-21 | MLX: An array framework for Apple silicon |
-| 9 | [**mozilla-ai/llamafile**](https://github.com/mozilla-ai/llamafile) | 26.4k | C++ | 2026-10-12 | Distribute and run LLMs with a single file. |
-| 10 | [**jundot/omlx**](https://github.com/jundot/omlx) | 23.0k | Python | 2026-10-21 | LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu b… |
+| 6 | [**AlexsJones/llmfit**](https://github.com/AlexsJones/llmfit) | 38.3k | Rust | 2026-10-24 | Hundreds of models & providers. One command to find what runs on your hardware. |
+| 7 | [**sgl-project/sglang**](https://github.com/sgl-project/sglang) | 37.7k | Python | 2026-10-24 | SGLang is a high-performance serving framework for large language models and multimodal models. |
+| 8 | [**ml-explore/mlx**](https://github.com/ml-explore/mlx) | 28.9k | C++ | 2026-10-23 | MLX: An array framework for Apple silicon |
+| 9 | [**mozilla-ai/llamafile**](https://github.com/mozilla-ai/llamafile) | 26.5k | C++ | 2026-10-12 | Distribute and run LLMs with a single file. |
+| 10 | [**jundot/omlx**](https://github.com/jundot/omlx) | 23.0k | Python | 2026-10-23 | LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu b… |
 
 <details>
 <summary>Show 10 more</summary>
@@ -64,14 +64,14 @@
 | # | Project | ⭐ Stars | Language | Updated | Description |
 |:-:|:--|--:|:-:|:-:|:--|
 | 11 | [**Lightning-AI/litgpt**](https://github.com/Lightning-AI/litgpt) | 13.7k | Python | 2026-10-13 | 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale. |
-| 12 | [**bentoml/OpenLLM**](https://github.com/bentoml/OpenLLM) | 12.6k | Python | 2026-10-20 | Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. |
-| 13 | [**openvinotoolkit/openvino**](https://github.com/openvinotoolkit/openvino) | 11.0k | C++ | 2026-10-21 | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference |
-| 14 | [**RunanywhereAI/runanywhere-sdks**](https://github.com/RunanywhereAI/runanywhere-sdks) | 10.3k | C++ | 2026-10-19 | Production ready toolkit to run AI locally |
+| 12 | [**bentoml/OpenLLM**](https://github.com/bentoml/OpenLLM) | 12.6k | Python | 2026-10-22 | Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. |
+| 13 | [**openvinotoolkit/openvino**](https://github.com/openvinotoolkit/openvino) | 11.1k | C++ | 2026-10-23 | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference |
+| 14 | [**RunanywhereAI/runanywhere-sdks**](https://github.com/RunanywhereAI/runanywhere-sdks) | 10.3k | C++ | 2026-10-21 | Production ready toolkit to run AI locally |
 | 15 | [**Tiiny-AI/PowerInfer**](https://github.com/Tiiny-AI/PowerInfer) | 9.8k | C++ | 2026-05-11 | High-speed Large Language Model Serving for Local Deployment |
-| 16 | [**xorbitsai/inference**](https://github.com/xorbitsai/inference) | 9.6k | Python | 2026-10-21 | Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and mult… |
-| 17 | [**FareedKhan-dev/kimi-k3-in-c**](https://github.com/FareedKhan-dev/kimi-k3-in-c) | 9.1k | C | 2026-10-02 | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS,… |
-| 18 | [**InternLM/lmdeploy**](https://github.com/InternLM/lmdeploy) | 8.1k | Python | 2026-10-21 | LMDeploy is a toolkit for compressing, deploying, and serving LLMs. |
-| 19 | [**ml-explore/mlx-lm**](https://github.com/ml-explore/mlx-lm) | 7.4k | Python | 2026-10-20 | Run LLMs with MLX |
+| 16 | [**xorbitsai/inference**](https://github.com/xorbitsai/inference) | 9.6k | Python | 2026-10-24 | Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and mult… |
+| 17 | [**FareedKhan-dev/kimi-k3-in-c**](https://github.com/FareedKhan-dev/kimi-k3-in-c) | 9.2k | C | 2026-10-02 | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS,… |
+| 18 | [**InternLM/lmdeploy**](https://github.com/InternLM/lmdeploy) | 8.1k | Python | 2026-10-23 | LMDeploy is a toolkit for compressing, deploying, and serving LLMs. |
+| 19 | [**ml-explore/mlx-lm**](https://github.com/ml-explore/mlx-lm) | 7.5k | Python | 2026-10-24 | Run LLMs with MLX |
 | 20 | [**drumih/turbo-fieldfare**](https://github.com/drumih/turbo-fieldfare) | 7.0k | Swift | 2026-10-15 | Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook |
 
 </details>
@@ -82,9 +82,9 @@
 
 | # | Project | ⭐ Stars | Language | Updated | Description |
 |:-:|:--|--:|:-:|:-:|:--|
-| 1 | [**deepseek-ai/DeepSeek-V3**](https://github.com/deepseek-ai/DeepSeek-V3) | 104.5k | Python | 2025-08-28 | — |
+| 1 | [**deepseek-ai/DeepSeek-V3**](https://github.com/deepseek-ai/DeepSeek-V3) | 104.6k | Python | 2025-08-28 | — |
 | 2 | [**deepseek-ai/DeepSeek-R1**](https://github.com/deepseek-ai/DeepSeek-R1) | 91.9k | — | 2025-06-27 | — |
-| 3 | [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | 28.6k | TypeScript | 2026-10-21 | An open-source AI coding agent that lives in your terminal. |
+| 3 | [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | 28.7k | TypeScript | 2026-10-24 | An open-source AI coding agent that lives in your terminal. |
 | 4 | [**QwenLM/Qwen3**](https://github.com/QwenLM/Qwen3) | 27.7k | Python | 2026-01-09 | Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud. |
 | 5 | [**deepseek-ai/DeepSeek-Coder**](https://github.com/deepseek-ai/DeepSeek-Coder) | 24.3k | Python | 2025-11-11 | DeepSeek Coder: Let the Code Write Itself |
 | 6 | [**QwenLM/Qwen**](https://github.com/QwenLM/Qwen) | 21.9k | Python | 2026-03-05 | Chinese-language project; see the repo for details |
@@ -100,14 +100,14 @@
 |:-:|:--|--:|:-:|:-:|:--|
 | 11 | [**deepseek-ai/DeepSeek-Coder-V2**](https://github.com/deepseek-ai/DeepSeek-Coder-V2) | 7.0k | — | 2025-11-11 | DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence |
 | 12 | [**deepseek-ai/DeepSeek-V2**](https://github.com/deepseek-ai/DeepSeek-V2) | 5.0k | — | 2024-09-25 | DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model |
-| 13 | [**gptme/gptme**](https://github.com/gptme/gptme) | 4.5k | Python | 2026-10-21 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make… |
+| 13 | [**gptme/gptme**](https://github.com/gptme/gptme) | 4.5k | Python | 2026-10-24 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make… |
 | 14 | [**zai-org/GLM-4.5**](https://github.com/zai-org/GLM-4.5) | 4.4k | Python | 2026-02-01 | GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models |
 | 15 | [**QwenLM/Qwen3.8**](https://github.com/QwenLM/Qwen3.8) | 4.3k | — | 2026-08-17 | Qwen3.8 is the large language model series developed by Qwen team, Alibaba Group. |
 | 16 | [**twinnydotdev/twinny**](https://github.com/twinnydotdev/twinny) | 3.7k | TypeScript | 2026-10-16 | Open-source AI coding assistant for VS Code. Coding agent, code completion, chat, edits and reviews with loca… |
 | 17 | [**bigcode-project/starcoder2**](https://github.com/bigcode-project/starcoder2) | 2.1k | Python | 2024-03-21 | Home of StarCoder2! |
-| 18 | [**huggingface/llm-ls**](https://github.com/huggingface/llm-ls) | 881 | Rust | 2026-09-23 | LSP server leveraging LLMs for code completion (and more?) |
+| 18 | [**huggingface/llm-ls**](https://github.com/huggingface/llm-ls) | 883 | Rust | 2026-09-23 | LSP server leveraging LLMs for code completion (and more?) |
 | 19 | [**bin123apple/AutoCoder**](https://github.com/bin123apple/AutoCoder) | 847 | Python | 2024-07-06 | We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base data… |
-| 20 | [**Fast-Editor/Lynkr**](https://github.com/Fast-Editor/Lynkr) | 635 | JavaScript | 2026-10-21 | Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions us… |
+| 20 | [**Fast-Editor/Lynkr**](https://github.com/Fast-Editor/Lynkr) | 639 | JavaScript | 2026-10-21 | Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions us… |
 
 </details>
 
@@ -117,31 +117,32 @@
 
 | # | Project | ⭐ Stars | Language | Updated | Description |
 |:-:|:--|--:|:-:|:-:|:--|
-| 1 | [**continuedev/continue**](https://github.com/continuedev/continue) | 36.3k | TypeScript | 2026-10-20 | open-source coding agent |
+| 1 | [**continuedev/continue**](https://github.com/continuedev/continue) | 36.3k | TypeScript | 2026-10-22 | open-source coding agent |
 | 2 | [**TabbyML/tabby**](https://github.com/TabbyML/tabby) | 33.9k | Rust | 2026-06-30 | Self-hosted AI coding assistant |
 | 3 | [**itayinbarr/little-coder**](https://github.com/itayinbarr/little-coder) | 2.7k | TypeScript | 2026-09-18 | A harness optimized to smaller LLMs |
-| 4 | [**ggml-org/llama.vscode**](https://github.com/ggml-org/llama.vscode) | 1.5k | TypeScript | 2026-10-18 | VS Code extension for LLM-assisted code/text completion |
+| 4 | [**ggml-org/llama.vscode**](https://github.com/ggml-org/llama.vscode) | 1.5k | TypeScript | 2026-10-22 | VS Code extension for LLM-assisted code/text completion |
 | 5 | [**xNul/code-llama-for-vscode**](https://github.com/xNul/code-llama-for-vscode) | 568 | Python | 2024-07-31 | Use Code Llama with Visual Studio Code and the Continue extension. A local LLM alternative to GitHub Copilot. |
 | 6 | [**mlhher/late-cli**](https://github.com/mlhher/late-cli) | 446 | Go | 2026-10-19 | High-performance AI agent for long-horizon tasks and local models. Built on empirical research. 200k+ tokens… |
-| 7 | [**danishashko/geo-aeo-tracker**](https://github.com/danishashko/geo-aeo-tracker) | 301 | TypeScript | 2026-10-19 | Open-source AI visibility tracker. Track how ChatGPT, Perplexity, Gemini, Copilot and Google AI Mode mention… |
-| 8 | [**plaxtoris/codehamr**](https://github.com/plaxtoris/codehamr) | 221 | Go | 2026-09-25 | A minimal, local-first coding agent for the terminal. |
-| 9 | [**autohandai/code-cli**](https://github.com/autohandai/code-cli) | 207 | TypeScript | 2026-10-20 | Open-source terminal coding agent. Use 15+ model providers, local models or your own key. Plan mode before ed… |
-| 10 | [**mjasnikovs/pi-task**](https://github.com/mjasnikovs/pi-task) | 144 | TypeScript | 2026-10-16 | Deterministic spec-orchestration for local LLMs in the pi coding agent — drives prompts through refine→resear… |
+| 7 | [**danishashko/geo-aeo-tracker**](https://github.com/danishashko/geo-aeo-tracker) | 306 | TypeScript | 2026-10-19 | Open-source AI visibility tracker. Track how ChatGPT, Perplexity, Gemini, Copilot and Google AI Mode mention… |
+| 8 | [**plaxtoris/codehamr**](https://github.com/plaxtoris/codehamr) | 222 | Go | 2026-09-25 | A minimal, local-first coding agent for the terminal. |
+| 9 | [**autohandai/code-cli**](https://github.com/autohandai/code-cli) | 210 | TypeScript | 2026-10-23 | Open-source terminal coding agent. Use 15+ model providers, local models or your own key. Plan mode before ed… |
+| 10 | [**AlysisAi/AlysisCode**](https://github.com/AlysisAi/AlysisCode) | 183 | Python | 2026-10-24 | Open-source AI coding agent for your terminal. Bring any model (OpenAI, Anthropic, Gemini, Ollama), sandboxed… |
 
 <details>
-<summary>Show 9 more</summary>
+<summary>Show 10 more</summary>
 
 | # | Project | ⭐ Stars | Language | Updated | Description |
 |:-:|:--|--:|:-:|:-:|:--|
-| 11 | [**nathansutton/chad**](https://github.com/nathansutton/chad) | 140 | Python | 2026-10-19 | chad: a coding agent for your macbook pro |
-| 12 | [**templetongroup/radiant**](https://github.com/templetongroup/radiant) | 115 | JavaScript | 2026-10-15 | A local coding harness for Mac. Chat with coding agents across cloud and local models, watch every tool call… |
-| 13 | [**L-Forster/open-jet**](https://github.com/L-Forster/open-jet) | 101 | Python | 2026-10-14 | An offline coding agent for local models. One command sets up the best model your GPU can run, and on 24 GB+… |
-| 14 | [**sergezuber/FABULA-LLM-5**](https://github.com/sergezuber/FABULA-LLM-5) | 82 | TypeScript | 2026-09-22 | A local-first coding agent that doesn't take "done" on faith: the engine keeps the run going until the projec… |
-| 15 | [**Ninnix/q36**](https://github.com/Ninnix/q36) | 71 | C | 2026-10-21 | Qwen3.8-27b and Qwen3.6-35B-A3B local inference engine for Vulkan and Metal |
-| 16 | [**raullenchai/rapid-mlx-dsh-provider**](https://github.com/raullenchai/rapid-mlx-dsh-provider) | 70 | JavaScript | 2026-08-19 | Native Rapid-MLX provider for DeepSeek Harness (dsh) — dsh reads model facts from the server instead of your… |
-| 17 | [**RealDealCPA-VR/Iron-Jarvis**](https://github.com/RealDealCPA-VR/Iron-Jarvis) | 63 | Python | 2026-10-20 | A local-first AI control plane for orchestrating agents, models, tools, and machines from one desktop app. |
-| 18 | [**MuhammadUsmanGM/code-stick**](https://github.com/MuhammadUsmanGM/code-stick) | 63 | TypeScript | 2026-05-21 | Plug in a USB. Get an offline AI coding agent on any laptop - Windows, macOS, Linux. opencode + Ollama, pre-b… |
-| 19 | [**Fangyuan025/Chaty**](https://github.com/Fangyuan025/Chaty) | 54 | TypeScript | 2026-10-20 | The models on your disk, put to work. A private desktop app for open models — chat, a coding agent built for… |
+| 11 | [**mjasnikovs/pi-task**](https://github.com/mjasnikovs/pi-task) | 144 | TypeScript | 2026-10-16 | Deterministic spec-orchestration for local LLMs in the pi coding agent — drives prompts through refine→resear… |
+| 12 | [**nathansutton/chad**](https://github.com/nathansutton/chad) | 141 | Python | 2026-10-23 | chad: a coding agent for your macbook pro |
+| 13 | [**templetongroup/radiant**](https://github.com/templetongroup/radiant) | 116 | JavaScript | 2026-10-21 | A local coding harness for Mac. Chat with coding agents across cloud and local models, watch every tool call… |
+| 14 | [**slaveOftime/open-relay**](https://github.com/slaveOftime/open-relay) | 109 | Rust | 2026-10-22 | oly runs coding agents and long-running commands in persistent, supervised terminal sessions. The daemon owns… |
+| 15 | [**L-Forster/open-jet**](https://github.com/L-Forster/open-jet) | 104 | Python | 2026-10-14 | An offline coding agent for local models. One command sets up the best model your GPU can run, and on 24 GB+… |
+| 16 | [**sergezuber/FABULA-LLM-5**](https://github.com/sergezuber/FABULA-LLM-5) | 82 | TypeScript | 2026-09-22 | A local-first coding agent that doesn't take "done" on faith: the engine keeps the run going until the projec… |
+| 17 | [**Ninnix/q36**](https://github.com/Ninnix/q36) | 74 | C | 2026-10-23 | Qwen3.8-27b and Qwen3.6-35B-A3B local inference engine for Vulkan and Metal |
+| 18 | [**raullenchai/rapid-mlx-dsh-provider**](https://github.com/raullenchai/rapid-mlx-dsh-provider) | 70 | JavaScript | 2026-08-19 | Native Rapid-MLX provider for DeepSeek Harness (dsh) — dsh reads model facts from the server instead of your… |
+| 19 | [**RealDealCPA-VR/Iron-Jarvis**](https://github.com/RealDealCPA-VR/Iron-Jarvis) | 64 | Python | 2026-10-24 | A local-first AI control plane for orchestrating agents, models, tools, and machines from one desktop app. |
+| 20 | [**MuhammadUsmanGM/code-stick**](https://github.com/MuhammadUsmanGM/code-stick) | 63 | TypeScript | 2026-05-21 | Plug in a USB. Get an offline AI coding agent on any laptop - Windows, macOS, Linux. opencode + Ollama, pre-b… |
 
 </details>
 
@@ -165,6 +166,6 @@ This list is collected from GitHub, deduplicated, link-checked and ranked by sta
 
 <div align="center">
 
-<sub>Auto-generated · refreshed on a schedule · ranked by GitHub stars · 2026-10-21</sub>
+<sub>Auto-generated · refreshed on a schedule · ranked by GitHub stars · 2026-10-24</sub>
 
 </div>

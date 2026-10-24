@@ -9,5 +9,5 @@
   <text x="330" y="168" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="54" font-weight="800" fill="url(#word)" letter-spacing="-1">Top Open Weight Coding Models</text>
   <rect x="333" y="182" width="420" height="3" rx="1.5" fill="url(#rule)"/>
   <text x="333" y="216" font-family="'Segoe UI',system-ui,sans-serif" font-size="26" font-weight="600" fill="#c9d1d9">Open-weight coding and agent models (Qwen Coder, DeepSeek, GLM, Kimi, Devstral, StarCoder) plus the tools to run them locally: llama.cpp, Ollama, vLLM, MLX, ranked by GitHub stars</text>
-  <text x="333" y="258" font-family="'SF Mono',ui-monospace,monospace" font-size="20" fill="#a371f7">★ 62 entries · 1.2M stars · EN + ZH · rebuilt daily</text>
+  <text x="333" y="258" font-family="'SF Mono',ui-monospace,monospace" font-size="20" fill="#a371f7">★ 63 entries · 1.2M stars · EN + ZH · rebuilt daily</text>
 </svg>
